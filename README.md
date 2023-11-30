@@ -2,7 +2,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/International_Pok%C3%A9mon_logo.svg" alt="pokemon banner" width="500" height="300">
 
 ## About
-What makes a Pokemon Popular? Let's dig in and see what we can find out. We will be looking at the video game series developed by Game Freak and published by Nintendo.
+What makes a Pokemon Popular? Let's dig in and see what we can find out. We will be looking at the video game series developed by Game Freak and published by Nintendo. This is my Capstone Project for Code:Louisville
 
 Here are the Pokemon attributes we will be looking at to see how they correlate with their popularity:
 
@@ -46,3 +46,17 @@ Virtual Environment Commands
 | Activate | `source venv/bin/activate` | `source venv/Scripts/activate` |
 | Install | `pip install -r requirements.txt` | `pip install -r requirements.txt` |
 | Deactivate | `deactivate` | `deactivate` |
+
+## Data Analysis Capstone Features List
+
+Here are the features that I have used for this project
+
+### 1. Loading data
+Read two data files (CSV)
+### 2. Clean and operate on the data while combining them
+Clean data and perform a pandas merge on two values and calculate a mean value
+### 3. Visualize / Present data
+Make 3+ seaborn visualizations
+### 4. Best practices: Enhance project to a higher tier
+Utilize a virtual environment and inclued instructions in README file
+### 5. Interpretation of data
