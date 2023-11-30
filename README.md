@@ -63,31 +63,31 @@ Annotate in code and markdown cells in Jupyter Notebook, and README file
 ## Understanding Pokemon Terminology
 First lets dive into what I mean by shape for Pokemon. There are currently 14 shapes that a pokemon can be slit into. They are as follows
 
-### <img src="<img src="https://archives.bulbagarden.net/media/upload/d/da/Body01.png" alt="head shape" width="32" height="32">  Pokémon consisting of only a head
+<img src="https://archives.bulbagarden.net/media/upload/d/da/Body01.png" alt="head shape" width="32" height="32">  Pokémon consisting of only a head
 
-### <img src="<img src="https://archives.bulbagarden.net/media/upload/d/da/Body07.png" alt="legs shape" width="32" height="32">  Pokémon consisting of only a head
+<img src="https://archives.bulbagarden.net/media/upload/d/da/Body07.png" alt="legs shape" width="32" height="32">  Pokémon consisting of only a head
 
-### <img src="<img src="https://archives.bulbagarden.net/media/upload/d/da/Body03.png" alt="fins shape" width="32" height="32">  Pokémon with fins
+<img src="https://archives.bulbagarden.net/media/upload/d/da/Body03.png" alt="fins shape" width="32" height="32">  Pokémon with fins
 
-### <img src="<img src="https://archives.bulbagarden.net/media/upload/d/da/Body14.png" alt="insectoid shape" width="32" height="32">  Pokémon with an insectoid body
+<img src="https://archives.bulbagarden.net/media/upload/d/da/Body14.png" alt="insectoid shape" width="32" height="32">  Pokémon with an insectoid body
 
-### <img src="<img src="https://archives.bulbagarden.net/media/upload/d/da/Body08.png" alt="quadruped shape" width="32" height="32">  Pokémon with a quadruped body
+<img src="https://archives.bulbagarden.net/media/upload/d/da/Body08.png" alt="quadruped shape" width="32" height="32">  Pokémon with a quadruped body
 
-### <img src="<img src="https://archives.bulbagarden.net/media/upload/d/da/Body13.png" alt="multi_wing shape" width="32" height="32">  Pokémon with two or more pairs of wings
+<img src="https://archives.bulbagarden.net/media/upload/d/da/Body13.png" alt="multi_wing shape" width="32" height="32">  Pokémon with two or more pairs of wings
 
-### <img src="<img src="https://archives.bulbagarden.net/media/upload/d/da/Body11.png" alt="multi_bodies shape" width="32" height="32">  Pokémon consisting of multiple bodies
+<img src="https://archives.bulbagarden.net/media/upload/d/da/Body11.png" alt="multi_bodies shape" width="32" height="32">  Pokémon consisting of multiple bodies
 
-### <img src="<img src="https://archives.bulbagarden.net/media/upload/d/da/Body10.png" alt="tentacles shape" width="32" height="32">  Pokémon with tentacles or a multiped body
+<img src="https://archives.bulbagarden.net/media/upload/d/da/Body10.png" alt="tentacles shape" width="32" height="32">  Pokémon with tentacles or a multiped body
 
-### <img src="<img src="https://archives.bulbagarden.net/media/upload/d/da/Body05.png" alt="head_base shape" width="32" height="32">  Pokémon consisting of a head and a base
+<img src="https://archives.bulbagarden.net/media/upload/d/da/Body05.png" alt="head_base shape" width="32" height="32">  Pokémon consisting of a head and a base
 
-### <img src="<img src="https://archives.bulbagarden.net/media/upload/d/da/Body06.png" alt="bipedal_tail shape" width="32" height="32">  Pokémon with a bipedal, tailed form
+<img src="https://archives.bulbagarden.net/media/upload/d/da/Body06.png" alt="bipedal_tail shape" width="32" height="32">  Pokémon with a bipedal, tailed form
 
-### <img src="<img src="https://archives.bulbagarden.net/media/upload/d/da/Body12.png" alt="bipedal_tailless shape" width="32" height="32">  Pokémon with a bipedal, tailless form
+<img src="https://archives.bulbagarden.net/media/upload/d/da/Body12.png" alt="bipedal_tailless shape" width="32" height="32">  Pokémon with a bipedal, tailless form
 
-### <img src="<img src="https://archives.bulbagarden.net/media/upload/d/da/Body09.png" alt="wings shape" width="32" height="32">  Pokémon with a single pair of wings
+<img src="https://archives.bulbagarden.net/media/upload/d/da/Body09.png" alt="wings shape" width="32" height="32">  Pokémon with a single pair of wings
 
-### <img src="<img src="https://archives.bulbagarden.net/media/upload/d/da/Body02.png" alt="serpentine shape" width="32" height="32">  Pokémon with serpentine bodies
+<img src="https://archives.bulbagarden.net/media/upload/d/da/Body02.png" alt="serpentine shape" width="32" height="32">  Pokémon with serpentine bodies
 
-### <img src="<img src="https://archives.bulbagarden.net/media/upload/d/da/Body04.png" alt="arms shape" width="32" height="32">  Pokémon consisting of a head and arms
+<img src="https://archives.bulbagarden.net/media/upload/d/da/Body04.png" alt="arms shape" width="32" height="32">  Pokémon consisting of a head and arms
 
