@@ -2,7 +2,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/International_Pok%C3%A9mon_logo.svg" alt="pokemon banner" width="500" height="300">
 
 ## About
-What makes a Pokemon Popular? Let's dig in and see what we can find out. We will be looking at the video game series developed by Game Freak and published by Nintendo. This is my Capstone Project for Code:Louisville
+What makes a Pokemon popular? Let's dig in and see what we can find out. We will be looking at the video game series developed by Game Freak and published by Nintendo. This is my Capstone Project for Code:Louisville
 
 Here are the Pokemon attributes we will be looking at to see how they correlate with their popularity:
 
@@ -16,6 +16,9 @@ Here are the Pokemon attributes we will be looking at to see how they correlate 
 CSVs:
 - [Kaggle Complete Pokemon Data Set | complete-pokemon-set.csv](https://www.kaggle.com/datasets/kylekohnen/complete-pokemon-data-set)
 - [Results from a survey on Reddit | Favourite_Pokemon_responses-Results.csv](https://docs.google.com/spreadsheets/d/1c16Wh4AawHGbTi3Eq1DGZQdM4FMUlJO1YwXJZ_ylRvg/edit#gid=557303698)
+
+Bulbapedia was also a huge help as a resource to make sure data was complete and in writing some of the explanations for terminology.
+https://bulbapedia.bulbagarden.net/wiki/Main_Page
 
 ## Installation
 - First you need to have Python installed. This project was developed using Python 3.11.4. If you do not have Python you can download it from the [official Python website](https://www.python.org/downloads/).
@@ -63,10 +66,10 @@ Annotate in code and markdown cells in Jupyter Notebook, and README file
 ## Understanding Pokemon Terminology
 
 ### Generation
-Pokemon games are usually refered to their generation or gen. This is just a simpler way to break down the games. The first set ofgames, Pokemon Red and Pokemon Blue, are gen 1. The second set of games, Pokemon Gold and Pokemon Silver, are gen 2. We will only be looking at the first 7 gens.
+Pokemon games are usually refered to their generation or gen. This is just a simpler way to break down the games. The first set ofgames, Pokemon Red and Pokemon Blue, are gen 1. The second set of games, Pokemon Gold and Pokemon Silver, are gen 2 and so on. We will only be looking at the first 7 gens.
 
-### Shapess
-First lets dive into what I mean by shape for Pokemon. Each pokemon is assigned a 'shape'. This gives you a rought idea about how the pokemon looks in terms of features such as wings or silhouette. There are currently 14 shapes that a pokemon can be slit into. They are as follows:
+### Shapes
+Each pokemon is assigned a 'shape'. This gives you a rought idea about how the pokemon looks in terms of features such as wings or silhouette. There are currently 14 shapes that a pokemon can be split into. They are as follows:
 
 <img src="https://archives.bulbagarden.net/media/upload/1/17/Body01.png" alt="head shape" width="32" height="32">  Pokémon consisting of only a head
 
@@ -125,26 +128,26 @@ First lets dive into what I mean by shape for Pokemon. Each pokemon is assigned 
 <img src="https://archives.bulbagarden.net/media/upload/thumb/d/d1/0093Haunter.png/240px-0093Haunter.png" alt="haunter" width="120" height="120">
 
 ### Legendary/Mythical
-Legendary pokemon are pokemon that you can normally only catch once per game/save file. These are usually rare pokemon. There can be multiple different legendary pokemon in a generation, with there normally being between 4-9 different legendarys per gen.
-Mythical pokemon are even rarer. They are typically only handed out during events. Most you can not catch thru normal gameplay and either need a code to unlock or some other means depending on when the game came out. There are normally fewer Mythical than legendary pokemon per gen, between 1-5.
+Legendary pokemon are pokemon that you can normally only catch once per game/save file. These are usually rare pokemon. There can be multiple different legendary pokemon in a generation, with there normally being between 3-9 different legendaries per gen, but sometimes more.
+Mythical pokemon are even rarer. They are typically only handed out during events. Most you cannot catch thru normal gameplay and either need a code to unlock or some other means depending on when the game came out. There are normally fewer Mythical than legendary pokemon per gen, between 1-5.
 
 ### Stats
-Pokemon have many stats that determine how good they are at combat. Here is a simple breakdown of what each stat does:
+- Pokemon have many stats that determine how good they are at combat. Here is a simple breakdown of what each stat does:
 
 ##### HP
-HP determines how much damage a pokemon can receive before fainting
+- HP determines how much damage a pokemon can receive before fainting
 
 ##### Attack
-Attack helps determine how much damage physical moves do
+- Attack helps determine how much damage physical moves do
 
 ##### Defense
-Defense helps determine how much damage from physical moves is mitagated
+- Defense helps determine how much damage from physical moves is mitigated
 
 ##### Special Attack
-Attack helps determine how much damage special moves do
+- Attack helps determine how much damage special moves do
 
 ##### Special Defense
-Defense helps determine how much damage from special moves is mitagated
+- Defense helps determine how much damage from special moves is mitigated
 
 ##### Speed
-Speed determines the order of pokemon that can act in battle.
+- Speed determines the order of pokemon that can act in battle. Since pokemon is turn-based game, usally the pokemon with the highest speed gets to attack first.
