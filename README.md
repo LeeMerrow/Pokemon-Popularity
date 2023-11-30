@@ -129,6 +129,7 @@ Each pokemon is assigned a 'shape'. This gives you a rought idea about how the p
 
 ### Legendary/Mythical
 Legendary pokemon are pokemon that you can normally only catch once per game/save file. These are usually rare pokemon. There can be multiple different legendary pokemon in a generation, with there normally being between 3-9 different legendaries per gen, but sometimes more.
+
 Mythical pokemon are even rarer. They are typically only handed out during events. Most you cannot catch thru normal gameplay and either need a code to unlock or some other means depending on when the game came out. There are normally fewer Mythical than legendary pokemon per gen, between 1-5.
 
 ### Stats
