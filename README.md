@@ -131,7 +131,7 @@ Mythical pokemon are even rarer. They are typically only handed out during event
 ### Stats
 Pokemon have many stats that determine how good they are at combat. Here is a simple breakdown of what each stat does:
 
-###### HP
+##### HP
 HP determines how much damage a pokemon can receive before fainting
 
 ##### Attack
