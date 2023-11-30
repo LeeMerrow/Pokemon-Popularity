@@ -64,30 +64,44 @@ Annotate in code and markdown cells in Jupyter Notebook, and README file
 First lets dive into what I mean by shape for Pokemon. There are currently 14 shapes that a pokemon can be slit into. They are as follows
 
 <img src="https://archives.bulbagarden.net/media/upload/1/17/Body01.png" alt="head shape" width="32" height="32">  Pokémon consisting of only a head
+<img src="https://archives.bulbagarden.net/media/upload/2/25/0132Ditto.png" alt="ditto" width="120" height="120"> 
 
-<img src="https://archives.bulbagarden.net/media/upload/b/bc/Body07.png" alt="legs shape" width="32" height="32">  Pokémon consisting of only a head
+<img src="https://archives.bulbagarden.net/media/upload/b/bc/Body07.png" alt="legs shape" width="32" height="32">  Pokémon consisting of a head and legs
+<img src="https://archives.bulbagarden.net/media/upload/thumb/1/16/0043Oddish.png/240px-0043Oddish.png" alt="oddish" width="120" height="120"> 
 
 <img src="https://archives.bulbagarden.net/media/upload/d/d3/Body03.png" alt="fins shape" width="32" height="32">  Pokémon with fins
+<img src="https://archives.bulbagarden.net/media/upload/9/99/0131Lapras.png" alt="lapras" width="120" height="120"> 
 
 <img src="https://archives.bulbagarden.net/media/upload/4/4b/Body14.png" alt="insectoid shape" width="32" height="32">  Pokémon with an insectoid body
+<img src="https://archives.bulbagarden.net/media/upload/5/59/0213Shuckle.png" alt="shuckle" width="120" height="120"> 
 
 <img src="https://archives.bulbagarden.net/media/upload/c/cc/Body08.png" alt="quadruped shape" width="32" height="32">  Pokémon with a quadruped body
+<img src="https://archives.bulbagarden.net/media/upload/thumb/4/42/0059Arcanine.png/240px-0059Arcanine.png" alt="arcanine" width="120" height="120"> 
 
 <img src="https://archives.bulbagarden.net/media/upload/0/09/Body13.png" alt="multi_wing shape" width="32" height="32">  Pokémon with two or more pairs of wings
+<img src="https://archives.bulbagarden.net/media/upload/3/39/0212Scizor.png" alt="scizor" width="120" height="120"> 
 
 <img src="https://archives.bulbagarden.net/media/upload/3/36/Body11.png" alt="multi_bodies shape" width="32" height="32">  Pokémon consisting of multiple bodies
+<img src="https://archives.bulbagarden.net/media/upload/f/fe/0376Metagross.png" alt="metagross" width="120" height="120"> 
 
 <img src="https://archives.bulbagarden.net/media/upload/9/97/Body10.png" alt="tentacles shape" width="32" height="32">  Pokémon with tentacles or a multiped body
+<img src="https://archives.bulbagarden.net/media/upload/thumb/8/81/0487Giratina.png/240px-0487Giratina.png" alt="giratina" width="120" height="120"> 
 
 <img src="https://archives.bulbagarden.net/media/upload/d/da/Body05.png" alt="head_base shape" width="32" height="32">  Pokémon consisting of a head and a base
+<img src="https://archives.bulbagarden.net/media/upload/5/5a/0681Aegislash-Shield.png" alt="Aegislash" width="120" height="120"> 
 
 <img src="https://archives.bulbagarden.net/media/upload/8/88/Body06.png" alt="bipedal_tail shape" width="32" height="32">  Pokémon with a bipedal, tailed form
+<img src="https://archives.bulbagarden.net/media/upload/thumb/3/38/0006Charizard.png/240px-0006Charizard.png" alt="charizard" width="120" height="120"> 
 
 <img src="https://archives.bulbagarden.net/media/upload/4/45/Body12.png" alt="bipedal_tailless shape" width="32" height="32">  Pokémon with a bipedal, tailless form
+<img src="https://archives.bulbagarden.net/media/upload/f/f8/0282Gardevoir.png" alt="gardevoir" width="120" height="120"> 
 
 <img src="https://archives.bulbagarden.net/media/upload/9/98/Body09.png" alt="wings shape" width="32" height="32">  Pokémon with a single pair of wings
+<img src="https://archives.bulbagarden.net/media/upload/4/4a/0330Flygon.png" alt="flygon" width="120" height="120"> 
 
 <img src="https://archives.bulbagarden.net/media/upload/9/98/Body09.png" alt="serpentine shape" width="32" height="32">  Pokémon with serpentine bodies
+<img src="https://archives.bulbagarden.net/media/upload/8/80/0384Rayquaza.png" alt="rayquaza" width="120" height="120"> 
 
-<img src="https://archives.bulbagarden.net/media/upload/2/2c/Body04.png" alt="arms shape" width="32" height="32">  Pokémon consisting of a head and arms
+<img src="https://archives.bulbagarden.net/media/upload/2/2c/Body04.png" alt="arms shape" width="32" height="32">Pokémon consisting of a head and arms
+<img src="https://archives.bulbagarden.net/media/upload/thumb/d/d1/0093Haunter.png/240px-0093Haunter.png" alt="haunter" width="120" height="120">
 
