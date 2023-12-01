@@ -213,4 +213,4 @@ For Shape the bottom 4 are Head, Arms, Tentacles, and Multi_Bodies. Head, Tentac
 For Generation the bottom 3 are Gen 5, 6, and 7. This is just confirmation of what we have observed earlier.
 
 #### Overall
-So Shape and Generation seems to be the correlation the most with pokemon popularity. Color seems to have an effect, but to see of a degree.
+So Shape and Generation seems to be the correlation the most with pokemon popularity. Color seems to have an effect, but to see of a degree. And the older the pokemon is, the more popularity it seems to have.
